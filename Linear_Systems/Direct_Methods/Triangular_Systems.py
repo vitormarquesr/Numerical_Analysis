@@ -4,7 +4,7 @@
 #O(n^2) Complexity
 
 #Upper matrix
-def back_substitution(U):
+def backward_substitution(U):
 	n = len(U)
 	x = [0 for t in range(n)]
 
