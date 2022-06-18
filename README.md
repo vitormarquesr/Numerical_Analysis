@@ -13,3 +13,8 @@ Implementations of the algorithms used in Numerical Analysis
 * [Lagrange](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Polynomial_interpolation/Lagrange.py)
 * [Newton](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Polynomial_interpolation/Newton.py)
 * [Gregory-Newton](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Polynomial_interpolation/Gregory_Newton.py)
+
+## Numerical Integration
+
+* [Newton-Cotes](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Numerical_Integration/Newton-Cotes.py)
+
