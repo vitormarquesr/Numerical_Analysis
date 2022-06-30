@@ -18,3 +18,6 @@ Implementations of the algorithms used in Numerical Analysis
 
 * [Newton-Cotes](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Numerical_Integration/Newton-Cotes.py)
 
+## Root Finding
+
+* [Bisection](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Root_Finding/Bisection_method.py)
