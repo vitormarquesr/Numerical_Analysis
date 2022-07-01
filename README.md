@@ -21,3 +21,5 @@ Implementations of the algorithms used in Numerical Analysis
 ## Root Finding
 
 * [Bisection](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Root_Finding/Bisection_method.py)
+* [Newton Rapson](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Root_Finding/Newton_Rapson.py)
+* [Secant](https://github.com/vitormarquesr/Numerical_Analysis/blob/main/Root_Finding/Secant_Method.py)
